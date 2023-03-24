@@ -1,0 +1,44 @@
+#loginForm {
+   background-image: url(../images/loginPhoto.jpg);
+   min-height: 95vh;
+   background-repeat: no-repeat;
+}
+
+#registerForm {
+   background-image: url(../images/registerPhoto.png);
+   background-repeat: no-repeat;
+   min-height: 100vh;
+   min-width: 50vw;
+}
+
+.registerBackground {
+    background-color: #fcfcfc;
+}
+
+#registerForm h2 {
+    font-weight: bolder;
+}
+
+.validationError {
+    font-size: 90%;
+}
+
+.loginError {
+    color: #660000;
+}
+
+@media screen and (max-width: 991px) {
+    #registerForm {
+        background-image: url(../images/registerPhotoWithOpacity2.png);
+    }
+}
+
+@media screen and (min-height: 700px) {
+    #registerForm {
+        background-image: url(../images/registerPhotoForWide.png);
+    }
+
+    #loginForm {
+        background-image: url(../images/loginPhotoForWide.jpg);
+    }
+}
