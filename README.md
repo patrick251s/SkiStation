@@ -40,7 +40,3 @@ Admin panel for checking user activity<br />
 <br /><br />
 The Ski Station Messenger<br />
 <img src="https://user-images.githubusercontent.com/80048198/228243985-d1530dad-a3f5-4514-a7ee-2c7782455f4d.jpg" width="550" height="350">
-<br /><br />
-The weather forecast for users<br />
-<img src="https://user-images.githubusercontent.com/80048198/228243994-97d1741b-717e-4032-8939-6cd13a04a9db.jpg" width="550" height="350">
-
